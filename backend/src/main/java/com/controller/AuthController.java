@@ -1,7 +1,7 @@
-package com.arkaprava.backend.controller;
+package com.controller;
 
-import com.arkaprava.backend.service.EmailService;
-import com.arkaprava.backend.util.OtpUtil;
+import com.service.EmailService;
+import com.util.OtpUtil;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

@@ -1,4 +1,4 @@
-package com.arkaprava.backend.util;
+package com.util;
 
 import java.util.Random;
 

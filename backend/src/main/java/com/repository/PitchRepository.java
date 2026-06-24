@@ -1,6 +1,6 @@
-package com.arkaprava.backend.repository;
+package com.repository;
 
-import com.arkaprava.backend.entity.Pitch;
+import com.entity.Pitch;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

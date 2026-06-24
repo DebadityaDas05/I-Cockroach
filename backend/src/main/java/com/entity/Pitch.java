@@ -1,4 +1,4 @@
-package com.arkaprava.backend.entity;
+package com.entity;
 
 import jakarta.persistence.*;
 

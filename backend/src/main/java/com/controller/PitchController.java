@@ -1,7 +1,7 @@
-package com.arkaprava.backend.controller;
+package com.controller;
 
-import com.arkaprava.backend.entity.Pitch;
-import com.arkaprava.backend.repository.PitchRepository;
+import com.entity.Pitch;
+import com.repository.PitchRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

@@ -1,4 +1,4 @@
-package com.arkaprava.backend.service;
+package com.service;
 
 import okhttp3.*;
 import org.json.JSONObject;

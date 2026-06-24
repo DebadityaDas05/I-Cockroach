@@ -1,6 +1,6 @@
-package com.arkaprava.backend.controller;
+package com.controller;
 
-import com.arkaprava.backend.service.OcrService;
+import com.service.OcrService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
